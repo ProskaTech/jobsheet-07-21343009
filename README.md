@@ -1,5 +1,15 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Nama : Mukhtarijal   NIM : 21343009   Prodi : Informatika
+Pada jobsheet 7 kali ini, saya belajar tentang bagaimana konsep perulangan atau looping pada pemograman Java. Jenis perulangan pada java ada 3 yaitu:
+1. Perulangan FOR, yaitu jenis looping yang mana inisialisasi, kondisi, dan iterasinya berada dalam 1 baris atau  tergabung dalam 1 blok kode.
+2. Perulangan WHILE, yaitu perulangan yang inisialisasi terdahulu, kemudian kondisi dan terakhir iterasi, ketiga terpisah.
+3. Perulangan DO_WHILE, yaitu perulangan yang inisialisasi dulu, kemudian lakukan statement, kemudian iterasi dan terkahir kondisinya
+4. 
+5. Dalam Looping ada yang namanya NESTED LOOPING, yaitu ada looping di dalam looping.
+6. 
+7. misalnya pada codingan contoh kasus TUGAS 3 yang harus menampilan tampilan sbb:
+8. 1
+9. 22
+10. 333
+11. 4444
+12. 55555
+13. maka untuk penyelesaiannya harus dengan nested loop
